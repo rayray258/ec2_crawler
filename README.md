@@ -1,2 +1,2 @@
 # ec2_crawler
-ec2自動爬蟲
+ec2新聞自動爬蟲
